@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int num = 10;
 
-    // Está variavel armazena um endereço de memoria
+    // Está variavel armazena um endereço de memoria (Ponteiro)
     int *ptr = &num;
 
     cout << num << "\n";
